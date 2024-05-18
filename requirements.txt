@@ -1,0 +1,8 @@
+flask
+flask_smorest
+python-dotenv
+marshmallow
+SQLAlchemy==1.4.50
+flask-sqlalchemy
+flask-jwt-extended
+passlib
